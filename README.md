@@ -1,7 +1,6 @@
 # High Performance Leadership
 
-This page explores concepts related to high-performance leadership, including leadership discipline, productivity habits, communication frameworks, and motivational leadership principles. It also includes supporting resources related to time management, accountability, leadership communication, and professional development.
-
+This document explores concepts related to high-performance leadership, including leadership discipline, productivity habits, communication frameworks, and motivational leadership principles.
 ---
 
 ## Introduction
